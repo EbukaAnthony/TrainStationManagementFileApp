@@ -1,0 +1,7 @@
+1;Kim;Jojo;kim@gmail.com;123;987655432;Female;ew;2100;Passenger;False;4/5/2023 12:21:24 PM;4/5/2023 12:21:24 PM
+2;Phil;Jones;phil@gmail.com;230;0902345543;Male;Abuja;30000;SuperAdmin;False;4/5/2023 12:32:38 PM;4/5/2023 12:32:38 PM
+3;Miles;Montego;miles@gmail.com;8909;08161778965;Male;Lagos;63000;Manager;False;4/5/2023 12:38:41 PM;4/5/2023 12:38:41 PM
+4;Rahmat;Lola;lola@gmail.com;3434;098765432;Female;Ibd;11000;Passenger;False;4/5/2023 4:56:59 PM;4/5/2023 4:56:59 PM
+5;Derick;Scoth;scoth@gmail.com;4545;08161778965;Male;Kano;17000;Passenger;False;4/6/2023 5:14:51 PM;4/6/2023 5:14:51 PM
+6;Damilola;Sowunmi;dami@gmail.com;2323;98765430987;Female;dsa;1000;Passenger;False;4/7/2023 12:50:19 PM;4/7/2023 12:50:19 PM
+7;Flora;Tete;flora@gmail.com;1111;98322345678;Female;Benin;10000;Passenger;False;4/11/2023 10:40:46 PM;4/11/2023 10:40:46 PM

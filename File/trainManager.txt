@@ -1,0 +1,5 @@
+1;Lagos To Ibadan;Lagos;Ibadan;00:00:00;00:00:00;5000;20;19;True;4/7/2023 4:07:57 AM;4/7/2023 4:07:57 AM
+2;Asaba To Benin;Asaba;Benin;00:00:00;00:00:00;3000;15;11;False;4/7/2023 4:10:22 AM;4/7/2023 4:10:22 AM
+3;Abuja To Kano;Abuja;Kano;01:30:10;04:00:00;20;20;25;False;4/7/2023 1:02:56 PM;4/7/2023 1:02:57 PM
+4;Onitsha To Asaba;Onitsha;Asaba;02:30:00;03:30:00;500;10;10;False;4/7/2023 1:40:36 PM;4/7/2023 1:40:36 PM
+5;Abeokuta To Ibadan;Abeokuta;Ibadan;11:30:00;01:00:20;2000;15;14;False;4/11/2023 10:52:25 PM;4/11/2023 10:52:25 PM
